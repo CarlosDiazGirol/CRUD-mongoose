@@ -1,4 +1,4 @@
-# Ejercicio: CRUD de Luchadores (Node.js + Express + MongoDB)
+# Ejercicio: CRUD de Luchadores Street Figther (Node.js + Express + MongoDB)
 
 ## Antes de empezar
 
@@ -159,10 +159,10 @@ El luchador debe tener al menos:
 
 * name (string)
 * age (number)
-* company (string)
-* weight (number)
+* country (string)
 * active (boolean)
 
+Puedes tomar como referencia los luchadores de Street Figther, sino puedes inventarte los datos.
 ---
 
 ## Requisitos del CRUD
